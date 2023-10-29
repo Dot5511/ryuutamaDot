@@ -1,8 +1,8 @@
 # Ryuutama
 Ryuutama System for Foundry VTT
 
-# Support and 0.8.X
-I am currently not able to update this project to be compatible with 0.8.X. I am unable to dedicate the time needed to review every breaking change and potentially rewrite this entire project. I know that maybe disappointing, but the reality is, projects like this are hobbies and support for them does not put food on the table for my family.
+# Ulterior Note
+I, Dotkas, simply took on this project to try to make this run despite knowing next to nothing about coding. Please contact me at Dotkas on discord if you know any more. Anything but this note has been written by the original creator of this system.
 
 # Some notes
 I am still in the process of finalizing some of the compendiums. Most things do not have icons/art for them, and use the default icon.
@@ -16,6 +16,3 @@ Game icons come from https://game-icons.net/ and there use is covered by the Cre
 
 # Important Info
 This is fan made content. Info about Ryuutama's licensing can be found here: http://kotohi.com/ryuutama/licensing/
-
-# Ulterior Note
-I, Dotkas, simply took on this project to try to make this run despite knowing next to nothing about coding. Please contact me at Dotkas on discord if you know any more.
