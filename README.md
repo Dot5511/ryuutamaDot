@@ -16,3 +16,6 @@ Game icons come from https://game-icons.net/ and there use is covered by the Cre
 
 # Important Info
 This is fan made content. Info about Ryuutama's licensing can be found here: http://kotohi.com/ryuutama/licensing/
+
+# Ulterior Note
+I, Dotkas, simply took on this project to try to make this run despite knowing next to nothing about coding. Please contact me at Dotkas on discord if you know any more.
