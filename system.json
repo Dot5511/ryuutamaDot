@@ -1,6 +1,5 @@
 {
-    "id": "ryuutamatwo",
-    "name": "ryuutama",
+    "id":"ryuutamatwo",
     "title": "Ryuutama",
     "description": "The Ryuutama system, developed from the Simple World-Building by Atropos, updated to the latest Foundry version... Hopefully.",
     "version": "0.6.1",
@@ -85,8 +84,8 @@
     "gridUnits": "ft",
     "primaryTokenAttribute": "hp",
     "secondaryTokenAttribute": "mp",
-    "url": "https://github.com/Reaver01/ryuutama/",
-    "manifest": "https://raw.githubusercontent.com/reaver01/ryuutama/master/system.json",
-    "download": "https://github.com/reaver01/ryuutama/archive/master.zip",
+    "url": "https://github.com/Dot5511/ryuutamaDot/tree/master",
+    "manifest": "https://github.com/Dot5511/ryuutamaDot/blob/master/system.json",
+    "download": "https://github.com/Dot5511/ryuutamaDot/archive/refs/heads/master.zip",
     "license": "LICENSE.txt"
 }
